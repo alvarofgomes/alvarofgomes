@@ -38,7 +38,7 @@ Olá, sou Alvaro Gomes, um desenvolvedor Back-End focado em criar soluções efi
 ## Conecte-se Comigo 🌐
 
 <div align="center">
-  <a href="https://www.instagram.com/alvarofgomes" target="_blank">
+  <a href="[https://www.instagram.com/alvarofgomes](https://www.instagram.com/_alvarogomes_/)" target="_blank">
     <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" width="40" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
