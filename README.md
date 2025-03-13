@@ -16,11 +16,15 @@ Olá, sou Alvaro Gomes, um desenvolvedor Back-End focado em criar soluções efi
 
 ## Tecnologias
 
-  ![Java](https://img.icons8.com/ios/50/000000/java-coffee-cup-logo.png)
-  ![Spring Boot](https://img.icons8.com/color/48/spring-logo.png)
-  ![Ruby](https://img.icons8.com/color/48/ruby-programming-language.png)
-  ![C++](https://img.icons8.com/color/48/c-plus-plus-logo.png)
-  ![SQL](https://img.icons8.com/fluency/48/sql.png)
+## Tecnologias
+
+<p align="center">
+  <img src="https://img.icons8.com/ios/50/000000/java-coffee-cup-logo.png" alt="Java" title="Java">
+  <img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot" title="Spring Boot">
+  <img src="https://img.icons8.com/color/48/ruby-programming-language.png" alt="Ruby" title="Ruby">
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" title="C++">
+  <img src="https://img.icons8.com/fluency/48/sql.png" alt="SQL" title="SQL">
+</p>
 
 <hr style="border: 2px solid #ccc; border-radius: 5px;">
 <!--
