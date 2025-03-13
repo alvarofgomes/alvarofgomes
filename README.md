@@ -35,6 +35,22 @@ Olá, sou Alvaro Gomes, um desenvolvedor Back-End focado em criar soluções efi
 
 <hr style="border: 2px solid #ccc; border-radius: 5px;">
 
+## Conecte-se Comigo 🌐
+
+<div align="center">
+  <a href="https://www.instagram.com/alvarofgomes" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/alvarofgomes" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/alvarofgomes" target="_blank">
+    <img src="https://img.icons8.com/material-outlined/24/github.png" alt="GitHub" width="40" height="40" />
+  </a>
+</div>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
