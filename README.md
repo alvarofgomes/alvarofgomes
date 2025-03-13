@@ -1,5 +1,7 @@
 ## Alvaro Gomes 👋
 
+
+<hr style="border: 2px solid #ccc; border-radius: 5px;">
 <!--
 **alvarofgomes/alvarofgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
