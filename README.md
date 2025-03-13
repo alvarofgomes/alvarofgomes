@@ -1,9 +1,11 @@
 ## Alvaro Gomes 👋
 
-## Desenvolvedor Back-End
+<p style="font-size: 24px; font-weight: bold; margin-bottom: 0;">Desenvolvedor Back-End</p>
+
 Olá, sou Alvaro Gomes, um desenvolvedor Back-End focado em criar soluções eficientes e escaláveis com Java e Spring Boot. Meu objetivo é aplicar meus conhecimentos para desenvolver sistemas robustos, de alto desempenho e bem estruturados.
 
 <hr style="border: 2px solid #ccc; border-radius: 5px;">
+
 <!--
 **alvarofgomes/alvarofgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
