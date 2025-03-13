@@ -16,8 +16,6 @@ Olá, sou Alvaro Gomes, um desenvolvedor Back-End focado em criar soluções efi
 
 ## Tecnologias
 
-## Tecnologias
-
 <p align="center">
   <img src="https://img.icons8.com/ios/50/000000/java-coffee-cup-logo.png" alt="Java" title="Java">
   <img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot" title="Spring Boot">
