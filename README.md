@@ -2,7 +2,7 @@
 
 <p style="font-size: 24px; font-weight: bold; margin-bottom: 0;"><b>Desenvolvedor Back-End</b></p>
 
-Olá, sou Alvaro Gomes, um desenvolvedor Back-End focado em criar soluções eficientes e escaláveis com <b>Java</b> e Spring Boot. Meu objetivo é aplicar meus conhecimentos para desenvolver sistemas robustos, de alto desempenho e bem estruturados.
+Olá, sou Alvaro Gomes, um desenvolvedor Back-End focado em criar soluções eficientes e escaláveis com <b>Java</b> e <b>SpringBoot</b>. Meu objetivo é aplicar meus conhecimentos para desenvolver sistemas robustos, de alto desempenho e bem estruturados.
 
 <hr style="border: 2px solid #ccc; border-radius: 5px;">
 
