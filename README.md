@@ -18,8 +18,8 @@ Olá, sou Alvaro Gomes, um desenvolvedor Back-End focado em criar soluções efi
 
 <div align="center">
   <a href="https://github.com/alvarofgomes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvarofgomes&show_icons=true&theme=dark&bg_color=0D1117&title_color=00CED1&icon_color=00CED1&text_color=FFFFFF&border_color=00CED1" alt="Estatísticas do GitHub"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarofgomes&layout=compact&theme=dark&bg_color=0D1117&title_color=00CED1&text_color=FFFFFF&border_color=00CED1" alt="Linguagens mais usadas"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvarofgomes&show_icons=true&theme=dark&bg_color=0D1117&title_color=00CED1&icon_color=00CED1&text_color=FFFF00&border_color=00CED1" alt="Estatísticas do GitHub"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarofgomes&layout=compact&theme=dark&bg_color=0D1117&title_color=00CED1&text_color=FFFF00&border_color=00CED1" alt="Linguagens mais usadas"/>
   </a>
 </div>
 
