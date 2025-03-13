@@ -14,6 +14,11 @@ Olá, sou Alvaro Gomes, um desenvolvedor Back-End focado em criar soluções efi
 
 <hr style="border: 2px solid #ccc; border-radius: 5px;">
 
+## Tecnologias
+
+![Java](https://img.icons8.com/ios/50/000000/java-coffee-cup-logo.png)
+<img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
+
 <!--
 **alvarofgomes/alvarofgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
