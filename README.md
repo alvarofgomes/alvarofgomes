@@ -1,4 +1,4 @@
-## Hi there 👋
+## Alvaro Gomes 👋
 
 <!--
 **alvarofgomes/alvarofgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
