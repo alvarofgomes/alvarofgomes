@@ -14,7 +14,7 @@ Olá, sou Alvaro Gomes, um desenvolvedor Back-End focado em criar soluções efi
 
 <hr style="border: 2px solid #ccc; border-radius: 5px;">
 
-## Status
+## Status 🚀
 
 <div align="center">
   <a href="https://github.com/alvarofgomes">
