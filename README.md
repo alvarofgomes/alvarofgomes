@@ -14,6 +14,15 @@ Olá, sou Alvaro Gomes, um desenvolvedor Back-End focado em criar soluções efi
 
 <hr style="border: 2px solid #ccc; border-radius: 5px;">
 
+## Status
+
+<div align="center">
+  <a href="https://github.com/alvarofgomes">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvarofgomes&show_icons=true&theme=dark&bg_color=0D1117&title_color=00CED1&icon_color=00CED1&text_color=FFFFFF&border_color=00CED1" alt="Estatísticas do GitHub"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarofgomes&layout=compact&theme=dark&bg_color=0D1117&title_color=00CED1&text_color=FFFFFF&border_color=00CED1" alt="Linguagens mais usadas"/>
+  </a>
+</div>
+
 ## Tecnologias
 
 <p align="center">
@@ -25,10 +34,6 @@ Olá, sou Alvaro Gomes, um desenvolvedor Back-End focado em criar soluções efi
 </p>
 
 <hr style="border: 2px solid #ccc; border-radius: 5px;">
-<!--
-**alvarofgomes/alvarofgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -38,4 +43,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
