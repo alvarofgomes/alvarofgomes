@@ -61,5 +61,3 @@ Olá, sou Alvaro Gomes, um desenvolvedor Back-End focado em criar soluções efi
 <hr style="border: 2px solid #ccc; border-radius: 5px;">
 
 <p style="font-family: Arial, sans-serif;">💡 A tecnologia transforma ideias em realidade e impulsiona a inovação.</p>
-
-![Snake animation](https://github.com/alvarofgomes/alvarofgomes/blob/output/github-contribution-grid-snake.svg)
