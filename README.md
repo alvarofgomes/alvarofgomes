@@ -38,16 +38,17 @@ Olá, sou Alvaro Gomes, um desenvolvedor Back-End focado em criar soluções efi
 ## Conecte-se Comigo 🌐
 
 <div align="center">
-  <a href="https://www.instagram.com/_alvarogomes_/" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" width="40" height="40" />
+  <a href="https://instagram.com/alvarofgomes" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:alvarogomes098@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
   <a href="https://www.linkedin.com/in/alvarofgomes" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40" />
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/alvarofgomes" target="_blank">
-    <img src="https://img.icons8.com/material-outlined/24/github.png" alt="GitHub" width="40" height="40" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
