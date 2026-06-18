@@ -74,7 +74,7 @@ public class Developer {
 ## `>` Contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alvarofgomes/alvarofgomes/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+  <img src="https://raw.githubusercontent.com/alvarofgomes/alvarofgomes/main/profile-3d-contrib.svg" alt="3D Contribution Graph" width="100%"/>
 </div>
 
 <!-- ===================== PORTFÓLIO ===================== -->

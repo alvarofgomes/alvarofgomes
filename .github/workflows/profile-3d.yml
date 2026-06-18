@@ -13,16 +13,12 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: yoshi4496/profile-3d-contrib@v1.2.3
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: alvarofgomes
-
-      - uses: crazy-max/ghaction-github-pages@v3
+      - uses: lowlighter/metrics@latest
         with:
-          target_branch: output
-          build_dir: profile-3d-contrib
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: alvarofgomes
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          filename: profile-3d-contrib.svg
+          output_action: commit
