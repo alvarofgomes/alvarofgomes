@@ -130,7 +130,7 @@ Site pessoal com projetos, experiência e certificados. Suporte a português e i
 ## `>` Contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alvarofgomes/alvarofgomes/main/profile-3d-contrib/profile-night-view.svg" alt="Gráfico 3D de contribuições" width="100%"/>
+  <img src="https://raw.githubusercontent.com/alvarofgomes/alvarofgomes/main/profile-3d-contrib/profile-night-transparent.svg" alt="Gráfico 3D de contribuições" width="100%"/>
 </div>
 
 <!-- ===================== CONTATO ===================== -->
