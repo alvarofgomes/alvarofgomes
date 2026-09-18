@@ -61,8 +61,8 @@ public class Developer {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvarofgomes&show_icons=true&count_private=true&hide_border=true&title_color=5B95F5&icon_color=8B5CF6&text_color=9BA6C4&bg_color=0C1020" alt="Estatísticas do GitHub" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarofgomes&layout=compact&langs_count=6&hide_border=true&title_color=5B95F5&text_color=9BA6C4&bg_color=0C1020" alt="Linguagens mais usadas" />
+<img src="https://raw.githubusercontent.com/alvarofgomes/alvarofgomes/main/github-stats.svg" alt="Estatísticas do GitHub" />
+<img src="https://raw.githubusercontent.com/alvarofgomes/alvarofgomes/main/github-languages.svg" alt="Linguagens mais usadas" />
 
 <br/>
 
